@@ -28,7 +28,7 @@ A student management system built in C++. It's designed to efficiently handle st
 
 ## Output
 
-   )
+   ![Output Screenshot](SMSOutput.png)
 
 ## License
 
