@@ -17,7 +17,7 @@ A student management system built in C++. It's designed to efficiently handle st
 
 ## Usage
 
- Run the program and select an option from the menu:
+ 1. Run the program and select an option from the menu:
 	* 1: Add student
 	* 2: Delete student
 	* 3: Update student
