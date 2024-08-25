@@ -17,14 +17,13 @@ A student management system built in C++. It's designed to efficiently handle st
 
 ## Usage
 
-1. Run the program and select an option from the menu:
+ Run the program and select an option from the menu:
 	* 1: Add student
 	* 2: Delete student
 	* 3: Update student
 	* 4: Display all students
 	* 5: Search for student
 	* 6: Exit
-2. Follow the prompts to perform the selected action
 
 ## Output
 
